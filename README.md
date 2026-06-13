@@ -48,13 +48,13 @@ Currently, I am working on scalable student-focused platforms and AI-driven appl
 
 | Domain | Proficiency | Details |
 |----------|----------|----------|
-| Machine Learning | Advanced | Supervised & Unsupervised Learning |
-| Deep Learning | Intermediate | Neural Networks & CNNs |
-| Generative AI | Intermediate | LLM Applications & Prompt Engineering |
-| NLP | Intermediate | Text Processing & Language Models |
-| Computer Vision | Intermediate | Image Analysis & Classification |
-| Data Science | Intermediate | Data Analysis & Visualization |
-| AI Product Development | Advanced | Building Real-world AI Solutions |
+| Machine Learning | Intermediate | Supervised & Unsupervised Learning |
+| Deep Learning | Beginner | Neural Networks & CNNs |
+| Generative AI | Begineer | LLM Applications & Prompt Engineering |
+| NLP | Begineer | Text Processing & Language Models |
+| Computer Vision | Begineer | Image Analysis & Classification |
+| Data Science | Begineer | Data Analysis & Visualization |
+| AI Product Development | Begineer | Building Real-world AI Solutions |
 
 ---
 
