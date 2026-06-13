@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sachinverma240644-coder/sachinverma240644-coder/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 # About Me
 
 I’m **Sachin Verma**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at Acropolis Institute of Technology & Research.
@@ -27,25 +21,25 @@ Currently, I am working on scalable student-focused platforms and AI-driven appl
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,c" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -153,9 +147,6 @@ Focused on Machine Learning, Data Science, Generative AI, Algorithms, and Intell
 
 ![](https://img.shields.io/badge/Python%20Programming-Certified-FF9933?style=for-the-badge)
 
-![](https://img.shields.io/badge/AI%20Essentials-Certified-138808?style=for-the-badge)
-
----
 
 # Coding Profiles
 
@@ -210,8 +201,6 @@ Focused on Machine Learning, Data Science, Generative AI, Algorithms, and Intell
 </div>
 
 ---
-
-# Contribution Snake
 
 <div align="center">
 
