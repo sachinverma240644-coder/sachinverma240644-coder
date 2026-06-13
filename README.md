@@ -202,7 +202,7 @@ Focused on Machine Learning, Data Science, Generative AI, Algorithms, and Intell
 
 ---
 
-<img src="https://raw.githubusercontent.com/sachinverma240644-coder/github-profile-assets/output/github-contribution-grid-snake-dark.svg" />
+[<img src="https://raw.githubusercontent.com/sachinverma240644-coder/github-profile-assets/output/github-contribution-grid-snake-dark.svg" />](https://github.com/sachinverma240644-coder/github-profile-assets/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
