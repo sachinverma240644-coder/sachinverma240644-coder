@@ -201,7 +201,9 @@ Focused on Machine Learning, Data Science, Generative AI, Algorithms, and Intell
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/sachinverma240644-coder/github-contribution-grid-snake-dark.svg">
+<div align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/sachinverma240644-coder/sachinverma240644-coder/output/github-contribution-grid-snake-dark.svg">
+</div>
 ---
 
 # Current Focus
