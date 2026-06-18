@@ -168,15 +168,15 @@ Focused on Machine Learning, Data Science, Generative AI, Algorithms, and Intell
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinverma240644-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nevereverkd&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinverma240644-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevereverkd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinverma240644-coder&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nevereverkd&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -186,7 +186,7 @@ Focused on Machine Learning, Data Science, Generative AI, Algorithms, and Intell
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sachinverma240644-coder&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nevereverkd&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -196,13 +196,13 @@ Focused on Machine Learning, Data Science, Generative AI, Algorithms, and Intell
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinverma240644-coder&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nevereverkd&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sachinverma240644-coder/github-profile-assets/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/nevereverkd/github-profile-assets/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </div>
 
 ---
